@@ -24,9 +24,7 @@ https://imgur.com/a/Rd7I7ZY
 - Vanilla JavaScript (No frameworks)
 
 ## 📱 Live Demo
-
-[Click here to see live demo](https://your-username.github.io/do-task-manager)  
-*(Add your link after hosting)*
+https://do-task-manager-omega.vercel.app/
 
 ## How to Run Locally
 
