@@ -2,7 +2,7 @@
 
 A beautiful and fully functional task manager built with **pure HTML, CSS, and JavaScript**.
 
-![Demo](https://via.placeholder.com/800x400?text=do.+Task+Manager+Screenshot)
+https://imgur.com/a/Rd7I7ZY
 
 ## ✨ Features
 
